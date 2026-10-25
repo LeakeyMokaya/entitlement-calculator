@@ -1,1 +1,7 @@
-
+version: "2026.1"
+ordinary_hours_per_fortnight: 76
+overtime:
+  band1_hours: 8
+  band1_multiplier: 1.5
+  band2_multiplier: 2.0
+leave_accrual_rate: 0.076923
